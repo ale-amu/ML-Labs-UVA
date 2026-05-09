@@ -1,7 +1,3 @@
-Here it is:
-
----
-
 # Machine Learning Labs — University of Virginia (DS 3021)
 
 ## Overview
